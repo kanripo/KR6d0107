@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:49:48.388602
+#+DATE: 2015-08-30 19:49:50.991723
 #+TITLE: 佛說廣博嚴淨不退轉輪經
 #+PROPERTY: CBETA_ID T09n0268
 #+PROPERTY: ID KR6d0107
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 09, No. 0268
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6d0107_T_000-0254b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6d0107_T_002-0258c> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《佛說廣博嚴淨不退轉輪經》卷¶
+《佛說廣博嚴淨不退轉輪經》卷¶
 第二¶
 ¶
 宋涼州沙門智嚴譯¶
@@ -535,9 +534,8 @@
 得無住法忍故。善知一切眾生言音，而為解¶
 說寂滅之法，不作是念：『我於是時為此眾生¶
 說法。』已遠離我想諸音聲故，知諸法寂靜故，¶
-於諸法中不取其相，不可得故，不著言說
-<pb:KR6d0107_T_002-0262b>¶
-故，是菩薩摩訶薩名為八人。」
+於諸法中不取其相，不可得故，不著言說故
+<pb:KR6d0107_T_002-0262b>，是菩薩摩訶薩名為八人。」
 
 爾時世尊，欲重¶
 宣此義，而說偈言：¶
