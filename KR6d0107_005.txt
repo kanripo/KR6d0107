@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:49:48.482748
+#+DATE: 2015-08-30 19:49:52.032620
 #+TITLE: 佛說廣博嚴淨不退轉輪經
 #+PROPERTY: CBETA_ID T09n0268
 #+PROPERTY: ID KR6d0107
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 09, No. 0268
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6d0107_T_000-0254b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6d0107_T_005-0275a> ¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 《佛說廣博嚴淨不退轉輪經》卷¶
+《佛說廣博嚴淨不退轉輪經》卷¶
 第五¶
 ¶
 宋涼州沙門智嚴譯¶
