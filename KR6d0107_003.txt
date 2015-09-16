@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:49:48.418750
+#+DATE: 2015-08-30 19:49:52.446724
 #+TITLE: 佛說廣博嚴淨不退轉輪經
 #+PROPERTY: CBETA_ID T09n0268
 #+PROPERTY: ID KR6d0107
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 09, No. 0268
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6d0107_T_000-0254b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6d0107_T_003-0264a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《佛說廣博嚴淨不退轉輪經》卷¶
+《佛說廣博嚴淨不退轉輪經》卷¶
 第三¶
 ¶
 宋涼州沙門智嚴譯¶
@@ -639,7 +638,7 @@
 　牢固不可得；¶
 　為諸凡小者，
 　顯說是身相。¶
-　又說於眼入，
+　又語於眼入，
 　所見皆虛妄；¶
 　無智諸眾生，
 　於此生染惑。¶

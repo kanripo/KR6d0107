@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:49:48.482748
+#+DATE: 2015-08-30 19:49:52.522125
 #+TITLE: 佛說廣博嚴淨不退轉輪經
 #+PROPERTY: CBETA_ID T09n0268
 #+PROPERTY: ID KR6d0107
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 09, No. 0268
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6d0107_T_000-0254b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6d0107_T_005-0275a> ¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 《佛說廣博嚴淨不退轉輪經》卷¶
+《佛說廣博嚴淨不退轉輪經》卷¶
 第五¶
 ¶
 宋涼州沙門智嚴譯¶
@@ -115,7 +114,7 @@
 尊！今此會中頗有疑惑是法者不？」
 
 佛告阿難：¶
-「今此會中有十億眾生，皆生疑惑心意迷悶，¶
+「令此會中有十億眾生，皆生疑惑心意迷悶，¶
 作如是說：『為是何語，將非我等錯謬聞耶？』¶
 以是事故不知時方，亦不自知從何所來欲¶
 至何所，以疑惑故各不相見。」
@@ -555,7 +554,7 @@
 
 #+BEGIN_VERSE
 「　「皆共一心聽，
-　於百千億劫；¶
+　此百千億劫；¶
 　求如是菩提，
 　無量難思議。¶
 　為諸眾生故，
