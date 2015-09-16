@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說廣博嚴淨不退轉輪經
+#+DATE: 2015-08-30 19:49:48.769012
+#+PROPERTY: JUAN 0
