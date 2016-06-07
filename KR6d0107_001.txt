@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:49:48.360966
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:33
 #+TITLE: 佛說廣博嚴淨不退轉輪經
 #+PROPERTY: CBETA_ID T09n0268
 #+PROPERTY: ID KR6d0107
@@ -527,8 +527,8 @@ No.268[Nos.266,267]¶
 　為除彼疑故，
 　文殊今問我；¶
 　以是眾因緣，
-　諸菩薩來集。」
+　諸菩薩來集。」」
 #+END_VERSE
-」¶
+¶
 《廣博嚴淨經》卷第一¶
 
